@@ -2,26 +2,13 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="88377393-0f82-4f95-b61a-f49b0df71286" name="Default" comment="add flask app">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/baidu_api/config.json" beforeDir="false" afterPath="$PROJECT_DIR$/baidu_api/config.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/baidu_api/textGO.py" beforeDir="false" afterPath="$PROJECT_DIR$/baidu_api/textGO.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/demo/001.png_act.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/demo/001.png_act.jpg" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/demo/001.png_predict.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/demo/001.png_predict.jpg" afterDir="false" />
     </list>
-    <list id="21cbf1d9-b249-45b1-9c81-8cfe11249ccb" name="add flask app" comment="Add flask app" />
-    <list id="67ceb365-8f20-43b1-a9d1-de91c2e987cc" name="Add flask app" comment="Add flask app">
-      <change afterPath="$PROJECT_DIR$/baidu_api/config.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/baidu_api/textGO.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/common.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/demo/2019-09-27 16-18-43屏幕截图.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/route.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/css/style.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/js/script.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/AdvancedEAST.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/AdvancedEAST.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cfg.py" beforeDir="false" afterPath="$PROJECT_DIR$/cfg.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/predict.py" beforeDir="false" afterPath="$PROJECT_DIR$/predict.py" afterDir="false" />
-    </list>
+    <list id="21cbf1d9-b249-45b1-9c81-8cfe11249ccb" name="add flask app" comment="Rename png" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -91,6 +78,9 @@
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
     <option name="RESET_MODE" value="MIXED" />
   </component>
+  <component name="GithubDefaultAccount">
+    <option name="defaultAccountId" value="f98ab3a1-086b-407d-a1ea-d2714d9e3235" />
+  </component>
   <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
   <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
   <component name="JsGulpfileManager">
@@ -124,8 +114,8 @@
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/../img_deal/cp_img.py" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
-    <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="settings.editor.selected.configurable" value="preferences.fileTypes" />
+    <property name="restartRequiresConfirmation" value="false" />
+    <property name="settings.editor.selected.configurable" value="configurable.group.appearance" />
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
@@ -284,7 +274,7 @@
     <task active="true" id="Default" summary="Default task">
       <changelist id="88377393-0f82-4f95-b61a-f49b0df71286" name="Default" comment="" />
       <changelist id="21cbf1d9-b249-45b1-9c81-8cfe11249ccb" name="add flask app" comment="" />
-      <changelist id="67ceb365-8f20-43b1-a9d1-de91c2e987cc" name="Add flask app" comment="" />
+      <changelist id="" name="Add flask app" comment="" />
       <created>1526265048554</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
@@ -318,7 +308,35 @@
       <option name="project" value="LOCAL" />
       <updated>1569574433480</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="Add flask app">
+      <created>1569574774694</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1569574774694</updated>
+    </task>
+    <task id="LOCAL-00006" summary="Add flask app">
+      <created>1569575001494</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1569575001494</updated>
+    </task>
+    <task id="LOCAL-00007" summary="add flask app">
+      <created>1569576140113</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1569576140113</updated>
+    </task>
+    <task id="LOCAL-00008" summary="Rename png">
+      <created>1569576190019</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1569576190019</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -383,9 +401,10 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="add flask app" />
     <MESSAGE value="Add flask app" />
-    <option name="LAST_COMMIT_MESSAGE" value="Add flask app" />
+    <MESSAGE value="add flask app" />
+    <MESSAGE value="Rename png" />
+    <option name="LAST_COMMIT_MESSAGE" value="Rename png" />
   </component>
   <component name="debuggerHistoryManager">
     <expressions id="evaluateExpression">

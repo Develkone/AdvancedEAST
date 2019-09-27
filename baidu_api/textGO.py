@@ -12,7 +12,7 @@ def get_args() -> argparse.Namespace:
     parser = argparse.ArgumentParser(description="OCR 识别图片中的文字")
     # parser.add_argument("img", help="指定要识别的图片")
     parser.add_argument(
-        "-c", "--config", default="/home/develkone/Code/python/AdvancedEAST/baidu_api/config.json", help="指定配置文件")
+        "-c", "--config", default="./baidu_api/config.json", help="指定配置文件")
     return parser.parse_args()
 
 
@@ -74,7 +74,7 @@ class TextGO:
         if self.access_token == "":
             print("没有 access_token")
             return ""
-        url = f"https://aip.baidubce.com/rest/2.0/ocr/v1/accurate_basic?access_token={self.access_token}"
+        url = f"https://aip.baidubce.com/rest/2.0/ocr/v1/general_basic?access_token={self.access_token}"
         headers = {"Content-Type": "application/x-www-form-urlencoded"}
         data = {
             "image_type": "BASE64",
