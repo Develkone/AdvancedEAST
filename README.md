@@ -4,11 +4,10 @@
 * add front-end image upload&intercept interface 添加前端图片上传与截取交互界面
 
 Run：python route.py and then open http://127.0.0.1:5000
-![Font-End](demo/2019-09-27 16-18-43屏幕截图.png "Font-End Interface")
+![Front End](demo/front_end.png "Front End")
 Description：
 * the picture clipping plugin is from https://github.com/xyxiao001/vue-cropper,thanks to xyxiao001
 * add your own key in baidu_api/config.json,also you can change the address of API in baidu_api/textGO.py
-* 
 # AdvancedEAST
 AdvancedEAST is an algorithm used for Scene image text detect,
 which is primarily based on
